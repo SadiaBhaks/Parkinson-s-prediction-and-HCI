@@ -1,0 +1,72 @@
+id,true_label,predicted_label,correct,condition,age,gender,handedness,true_name,predicted_name,age_group
+168,2,1,False,Atypical Parkinsonism,67,male,right,Other/DD,Parkinson's,Over 65
+382,2,1,False,Essential Tremor,72,male,right,Other/DD,Parkinson's,Over 65
+361,1,1,True,Parkinson's,55,female,right,Parkinson's,Parkinson's,50-65
+195,2,1,False,Multiple Sclerosis,57,male,right,Other/DD,Parkinson's,50-65
+257,1,1,True,Parkinson's,78,male,right,Parkinson's,Parkinson's,Over 65
+249,1,1,True,Parkinson's,64,female,right,Parkinson's,Parkinson's,50-65
+442,1,1,True,Parkinson's,67,female,right,Parkinson's,Parkinson's,Over 65
+430,1,1,True,Parkinson's,66,female,right,Parkinson's,Parkinson's,Over 65
+175,1,1,True,Parkinson's,61,female,right,Parkinson's,Parkinson's,50-65
+114,2,2,True,Atypical Parkinsonism,61,female,right,Other/DD,Other/DD,50-65
+374,1,1,True,Parkinson's,72,male,right,Parkinson's,Parkinson's,Over 65
+140,2,0,False,Other Movement Disorders,54,female,right,Other/DD,Healthy,50-65
+335,0,2,False,Healthy,67,female,right,Healthy,Other/DD,Over 65
+63,1,2,False,Parkinson's,58,male,right,Parkinson's,Other/DD,50-65
+67,1,1,True,Parkinson's,65,male,right,Parkinson's,Parkinson's,50-65
+161,2,2,True,Other Movement Disorders,70,male,right,Other/DD,Other/DD,Over 65
+66,2,1,False,Essential Tremor,64,male,right,Other/DD,Parkinson's,50-65
+246,1,1,True,Parkinson's,77,male,right,Parkinson's,Parkinson's,Over 65
+359,2,1,False,Other Movement Disorders,71,male,right,Other/DD,Parkinson's,Over 65
+55,1,2,False,Parkinson's,63,male,right,Parkinson's,Other/DD,50-65
+28,1,1,True,Parkinson's,67,male,right,Parkinson's,Parkinson's,Over 65
+160,0,1,False,Healthy,76,female,right,Healthy,Parkinson's,Over 65
+82,1,1,True,Parkinson's,81,male,right,Parkinson's,Parkinson's,Over 65
+380,1,1,True,Parkinson's,47,male,right,Parkinson's,Parkinson's,Under 50
+358,1,0,False,Parkinson's,68,male,right,Parkinson's,Healthy,Over 65
+366,1,1,True,Parkinson's,70,male,right,Parkinson's,Parkinson's,Over 65
+322,1,2,False,Parkinson's,59,male,right,Parkinson's,Other/DD,50-65
+352,1,1,True,Parkinson's,55,female,right,Parkinson's,Parkinson's,50-65
+153,0,1,False,Healthy,77,male,right,Healthy,Parkinson's,Over 65
+191,2,1,False,Other Movement Disorders,56,female,right,Other/DD,Parkinson's,50-65
+181,1,1,True,Parkinson's,67,male,right,Parkinson's,Parkinson's,Over 65
+53,1,0,False,Parkinson's,70,female,right,Parkinson's,Healthy,Over 65
+371,0,1,False,Healthy,48,female,right,Healthy,Parkinson's,Under 50
+321,2,1,False,Other Movement Disorders,66,female,right,Other/DD,Parkinson's,Over 65
+60,1,0,False,Parkinson's,53,male,right,Parkinson's,Healthy,50-65
+331,1,0,False,Parkinson's,53,male,right,Parkinson's,Healthy,50-65
+300,1,1,True,Parkinson's,65,male,right,Parkinson's,Parkinson's,50-65
+74,1,1,True,Parkinson's,83,female,right,Parkinson's,Parkinson's,Over 65
+43,2,0,False,Other Movement Disorders,73,male,right,Other/DD,Healthy,Over 65
+166,1,1,True,Parkinson's,75,male,right,Parkinson's,Parkinson's,Over 65
+235,1,1,True,Parkinson's,78,male,right,Parkinson's,Parkinson's,Over 65
+391,0,1,False,Healthy,54,female,right,Healthy,Parkinson's,50-65
+51,1,0,False,Parkinson's,70,female,right,Parkinson's,Healthy,Over 65
+343,1,1,True,Parkinson's,53,male,right,Parkinson's,Parkinson's,50-65
+243,1,0,False,Parkinson's,48,female,right,Parkinson's,Healthy,Under 50
+148,0,1,False,Healthy,80,male,right,Healthy,Parkinson's,Over 65
+369,1,2,False,Parkinson's,66,male,left,Parkinson's,Other/DD,Over 65
+239,1,2,False,Parkinson's,83,male,right,Parkinson's,Other/DD,Over 65
+245,1,1,True,Parkinson's,63,female,right,Parkinson's,Parkinson's,50-65
+18,2,1,False,Atypical Parkinsonism,54,female,right,Other/DD,Parkinson's,50-65
+25,1,1,True,Parkinson's,71,female,right,Parkinson's,Parkinson's,Over 65
+167,0,1,False,Healthy,58,female,right,Healthy,Parkinson's,50-65
+265,1,1,True,Parkinson's,75,male,right,Parkinson's,Parkinson's,Over 65
+286,1,1,True,Parkinson's,55,male,right,Parkinson's,Parkinson's,50-65
+193,0,1,False,Healthy,40,male,right,Healthy,Parkinson's,Under 50
+115,1,0,False,Parkinson's,57,male,right,Parkinson's,Healthy,50-65
+185,1,1,True,Parkinson's,72,male,left,Parkinson's,Parkinson's,Over 65
+333,1,1,True,Parkinson's,69,male,right,Parkinson's,Parkinson's,Over 65
+330,2,1,False,Essential Tremor,72,male,right,Other/DD,Parkinson's,Over 65
+291,2,2,True,Atypical Parkinsonism,66,male,right,Other/DD,Other/DD,Over 65
+420,0,0,True,Healthy,57,female,right,Healthy,Healthy,50-65
+130,2,1,False,Other Movement Disorders,59,female,right,Other/DD,Parkinson's,50-65
+459,0,1,False,Healthy,81,male,right,Healthy,Parkinson's,Over 65
+213,2,2,True,Other Movement Disorders,69,female,right,Other/DD,Other/DD,Over 65
+396,2,1,False,Essential Tremor,79,male,right,Other/DD,Parkinson's,Over 65
+357,1,1,True,Parkinson's,74,male,right,Parkinson's,Parkinson's,Over 65
+122,1,1,True,Parkinson's,72,male,right,Parkinson's,Parkinson's,Over 65
+189,1,2,False,Parkinson's,69,male,right,Parkinson's,Other/DD,Over 65
+295,0,1,False,Healthy,64,male,right,Healthy,Parkinson's,50-65
+131,1,1,True,Parkinson's,75,male,right,Parkinson's,Parkinson's,Over 65
+80,0,2,False,Healthy,71,female,left,Healthy,Other/DD,Over 65
