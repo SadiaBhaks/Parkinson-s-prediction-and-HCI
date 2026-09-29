@@ -1,1 +1,5 @@
 /pads-parkinsons-disease-smartwatch-dataset-1.0.0/
+# Generated model/data artifacts
+*.npz
+*.pkl
+*.pt
