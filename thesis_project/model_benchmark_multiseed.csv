@@ -1,0 +1,46 @@
+Model,Seed,Split,Balanced_Accuracy
+Logistic Regression,0,Train,0.48131630890698246
+Logistic Regression,0,Validation,0.5271600510122748
+Logistic Regression,0,Test (unseen),0.48239295718287317
+MLP,0,Train,0.4662747011192607
+MLP,0,Validation,0.4207943339937601
+MLP,0,Test (unseen),0.41049753234627184
+Random Forest,0,Train,0.8089945999596259
+Random Forest,0,Validation,0.5223235635717701
+Random Forest,0,Test (unseen),0.5072362278244631
+Logistic Regression,1,Train,0.48131630890698246
+Logistic Regression,1,Validation,0.5271600510122748
+Logistic Regression,1,Test (unseen),0.48239295718287317
+MLP,1,Train,0.40576789359172777
+MLP,1,Validation,0.4006940174443761
+MLP,1,Test (unseen),0.3809023609443778
+Random Forest,1,Train,0.8063311688311688
+Random Forest,1,Validation,0.5274504110587325
+Random Forest,1,Test (unseen),0.5084700546885421
+Logistic Regression,2,Train,0.48131630890698246
+Logistic Regression,2,Validation,0.5271600510122748
+Logistic Regression,2,Test (unseen),0.48239295718287317
+MLP,2,Train,0.41985804566763113
+MLP,2,Validation,0.4266356949283779
+MLP,2,Test (unseen),0.41795051353874885
+Random Forest,2,Train,0.8085259515958998
+Random Forest,2,Validation,0.5370265992575892
+Random Forest,2,Test (unseen),0.49968320661597976
+Logistic Regression,3,Train,0.48131630890698246
+Logistic Regression,3,Validation,0.5271600510122748
+Logistic Regression,3,Test (unseen),0.48239295718287317
+MLP,3,Train,0.3885958493147612
+MLP,3,Validation,0.3757059734462891
+MLP,3,Test (unseen),0.3862211551287182
+Random Forest,3,Train,0.8093515185160264
+Random Forest,3,Validation,0.5261893375236274
+Random Forest,3,Test (unseen),0.49351407229558486
+Logistic Regression,4,Train,0.48131630890698246
+Logistic Regression,4,Validation,0.5271600510122748
+Logistic Regression,4,Test (unseen),0.48239295718287317
+MLP,4,Train,0.43818033218939956
+MLP,4,Validation,0.4279024617977272
+MLP,4,Test (unseen),0.39615846338535415
+Random Forest,4,Train,0.8074945887445888
+Random Forest,4,Validation,0.5353869189952404
+Random Forest,4,Test (unseen),0.5067360277444312
